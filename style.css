@@ -1,0 +1,46 @@
+h2 {
+    color:rgb(237, 76, 221);
+}
+.intro {
+    color:rgb(136, 120, 135);
+}
+
+.about-header {
+    color:rgb(219, 222, 234);
+}
+.introduction {
+    color:cornflowerblue;
+}
+.hobby {
+    color:cadetblue;
+}
+.fname {
+    color:rgb(182, 69, 92);
+}
+.lname {
+    color:coral;
+}
+.email {
+    color:rgb(234, 209, 68);
+}
+.text {
+    color:rgb(150, 196, 105);
+}
+.contact-header {
+    color:rgb(187, 137, 234)
+}
+.i-fname {
+    background-color:crimson
+}
+.i-lname {
+  color:rgb(239, 142, 24)
+}
+.i-email {
+    color:gold;
+}
+.i-text {
+    color:forestgreen;
+}
+
+
+
